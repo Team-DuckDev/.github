@@ -16,9 +16,9 @@ Sente-se, fique à vontade e aconchegue-se.🐤💻
 
 | Membro | Perfis |
 |---|---|
-| **Carla Mariana Tenório de A. Sobreira de Oliveira** | [LinkedIn](https://www.linkedin.com/in/carla-mariana-0265b2351/) · [GitHub](https://github.com/Carla-newDEV) |
-| **Cleverson Alves de Moura** | [LinkedIn](https://www.linkedin.com/in/cleverson-moura-61b303337) · [GitHub](https://github.com/cleverson-moura) |
-| **Gustavo Kauan Oliveira Lemos** | [GitHub](https://github.com/Gustavo-Lemos-2004) |
-| **Iruan Gonçalves de Moura Silva** | [LinkedIn](https://www.linkedin.com/in/iruan-goncalves/) · [GitHub](https://github.com/Iruan12) |
-| **Mário Ítalo Oliveira Silva** | [LinkedIn](https://www.linkedin.com/in/olivmario) · [GitHub](https://github.com/olivmario) |
+| [**Carla Mariana Tenório de A. Sobreira de Oliveira**](https://github.com/Carla-newDEV) | [LinkedIn](https://www.linkedin.com/in/carla-mariana-0265b2351/) |
+| [**Cleverson Alves de Moura**](https://github.com/cleverson-moura) | [LinkedIn](https://www.linkedin.com/in/cleverson-moura-61b303337) |
+| [**Gustavo Kauan Oliveira Lemos**](https://github.com/Gustavo-Lemos-2004) | |
+| [**Iruan Gonçalves de Moura Silva**](https://github.com/Iruan12) | [LinkedIn](https://www.linkedin.com/in/iruan-goncalves/) |
+| [**Mário Ítalo Oliveira Silva**](https://github.com/olivmario) | [LinkedIn](https://www.linkedin.com/in/olivmario) |
 
